@@ -1,0 +1,4 @@
+Hell world!
+This is a sample file to test the get_next_line function!
+You are stunnign!
+:eyes:

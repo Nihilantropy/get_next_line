@@ -23,7 +23,7 @@ and run the program with
 ./test_gnl
 ```
 
-then try to modify the `sample.txt.` file to see the result. You can play with the BUFFER_SIZE in each compilation to see if it works :smile:
+Try to modify the `sample.txt.` file to see the result. You can play with the BUFFER_SIZE in each compilation to see if it works :smile:
 
 **IMPORTANT!**: `main.c` and `sample.txt` are just for testing. They must not go into the project repository!
 

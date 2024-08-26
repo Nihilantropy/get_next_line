@@ -1,4 +1,30 @@
 Hell world!
 This is a sample file to test the get_next_line function!
 You are stunnign!
-:eyes:
+Love
+
+JOHN LENNON - IMAGINE LYRICS
+Writer(s): LENNON, JOHN
+Imagine there's no heaven
+It's easy if you try
+No hell below us
+Above us only sky
+Imagine all the people living for today
+Imagine there's no countries
+It isn't hard to do
+Nothing to kill or die for
+And no religion too
+Imagine all the people living life in peace
+You, you may say
+I'm a dreamer, but I'm not the only one
+I hope some day you'll join us
+And the world will be as one
+Imagine no possessions
+I wonder if you can
+No need for greed or hunger
+A brotherhood of man
+Imagine all the people sharing all the world
+You, you may say
+I'm a dreamer, but I'm not the only one
+I hope some day you'll join us
+And the world will live as one

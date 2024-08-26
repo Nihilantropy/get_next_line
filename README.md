@@ -15,7 +15,7 @@ cd get_next_line
 Take a look at the code :eyes:! To test it you can call this command:
 
 ```
-cc -Wall -Wextra -Werror -D BUFFER_SIZE=42 main.c get_next_line.c get_next_line utils.c -o test_gnl
+cc -Wall -Wextra -Werror -D BUFFER_SIZE=42 main.c get_next_line.c get_next_line_utils.c -o test_gnl
 ```
 and run the program with
 
